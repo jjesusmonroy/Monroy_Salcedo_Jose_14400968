@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/jjesusmonroy/andprojects/AnimateJava/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/jjesusmonroy/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.3.0.aar/4634711644605623763b2a0f707512fe/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/jjesusmonroy/andprojects/AnimateJava/C:\\Users\\lenovo\\Documents\\Codigos\\Animacion\\Solutions\\Ch02\\02_02\\AnimateJava\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "/home/jjesusmonroy/andprojects/AnimateJava/C:\\Users\\lenovo\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.3.0.aar\\e293b30646733ea6d34656fef5159dbe\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}
